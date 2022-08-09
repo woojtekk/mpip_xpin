@@ -1,5 +1,6 @@
 #!/usr/bin/gnuplot
 reset
+#comment
 
 #set terminal x11
 set terminal jpeg
